@@ -1,4 +1,3 @@
-from numpy import full
 import streamlit as st
 import pickle
 import pandas as pd
